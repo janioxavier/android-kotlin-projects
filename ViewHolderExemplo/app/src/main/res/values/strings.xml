@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ViewHolder</string>
+
+    <string name="combus_gasolina">Gasolina</string>
+    <string name="combus_etanol">Etanol</string>
+    <string name="combus_flex">Flex</string>
+    <string name="combus_invalido">Não Informado</string>
+
+</resources>
