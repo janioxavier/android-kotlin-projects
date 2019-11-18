@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/btn_simple"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Simples" />
+
+    <Button
+        android:id="@+id/btn_action"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Notificação com Ação" />
+
+    <Button
+        android:id="@+id/btn_bigText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Notificação com Texto Grande" />
+
+    <Button
+        android:id="@+id/btn_ultima"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Última Notificação" />
+
+</LinearLayout>

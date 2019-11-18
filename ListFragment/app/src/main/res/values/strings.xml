@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Lista de Alimentos</string>
+
+    <array name="alimentos_nomes">
+        <item>Café</item>
+        <item>Feijão</item>
+        <item>Arroz Integral</item>
+        <item>Carne Moída</item>
+        <item>Leite</item>
+        <item>Açúcar</item>
+    </array>
+
+    <string-array name="alimentos_precos">
+        <item>4.5</item>
+        <item>5.5</item>
+        <item>3.9</item>
+        <item>7.5</item>
+        <item>3.5</item>
+        <item>4.0</item>
+    </string-array>
+
+</resources>
